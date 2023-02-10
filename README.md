@@ -17,10 +17,6 @@ Construído a partir do treinamento Rockeatseat <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Iniciei este projeto após 10 anos fora da programação :)
+<br>
 Quero desbravar o HTML & CSS & JavaScript;
 
 ## 🔖 Layout
@@ -45,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com muito cuidado com apoio da comunidade Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com muito cuidado com apoio da comunidade Rocketseat [Participe da nossa comunidade!](https://discord.gg/rocketseat)
